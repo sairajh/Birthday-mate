@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.0.2_528a1bb5f53f98191e5f7b4cc0aeaf3893d3d318.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_883e8085b5b51b3797039e70d83ebc59958d55de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_91b9c3b5771a5f6d9f70ea1e7727168d3aaa4996.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_01f907cfc050256692e785e4345c4f0959e9b600.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_7db4d11064341276e5af04da45bfceb9223bfec3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.2_2f9eccac61e4c71f147d9da6b4c96d153ec22dae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.2_d691f976f13ffdd5d74d31787616a1277c174e2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.2_e880fe6b720c92aad1c6439591ebcffd119385a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.2_94399d2599d3f900ea6d778473dc804b01029605.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_d15b1e0d2e2d38d9a827b0e8bc66ab3146603265.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_f7499d7010e6c363c6dbb229fb67bf3721e909c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\Sairaj\Desktop\final\HappyBirthday3_Pro\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.0.2_d04d59076b0138f30819f799eebcc02dcbf0beae.jar" />
+    </item>
+
+</items>
